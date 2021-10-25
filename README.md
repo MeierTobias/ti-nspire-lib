@@ -13,12 +13,20 @@ This repository contains different TI-Basic libraries with usefull functions. Th
 ### RobFunc
 This library was developed for the robotics module 2021 at OST 
 * atan2(y,x)
-* get_xyz_rotmat(a,b,g)
-* get_zyxe_rotmat(a,b,g)
-* get_zyze_rotmat(a,b,g)
-* get_angles_xyz(rmat)
-* get_angles_zyxe(rmat)
-* get_angles_zyze(rmat)
+* xyz_rotmat(a,b,g)
+* zyx_e_rotmat(a,b,g)
+* zyz_e_rotmat(a,b,g)
+* xyz_angles(rmat)
+* zyx_e_angles(rmat)
+* zyz_e_angles(rmat)
+* rotmat_x(phi)
+* rotmat_y(beta)
+* rotmat_z(alpha)
+* transmat_rot_x(phi)
+* transmat_rot_y(beta)
+* transmat_rot_z(alpha)
+* transmat_transl(a,b,c)
+* dh_transmat(a,alpha,d,theta)
 
 ## Usage
 This section explains how to use the libraries on your TI-nspire CX II-T
