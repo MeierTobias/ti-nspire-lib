@@ -50,4 +50,4 @@ This section explains how to use the libraries on your TI-nspire CX II-T
 
 
 ## License
-This repository is licensed under the terms of the GNU GENERAL PUBLIC LICENSE V3 license.
+This repository is licensed under the terms of the [GNU GENERAL PUBLIC LICENSE V3](LICENSE) license.
