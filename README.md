@@ -10,7 +10,7 @@ This repository contains different TI-Basic libraries with usefull functions. Th
 
 ## Libraries
 
-- [RobFunc](RobFunc) (click here for function overview and examples)  
+- [RobFunc](RobFunc.md) (click here for function overview and examples)  
 This library was developed for the robotics module 2021 at OST.  
 
 ## Usage
