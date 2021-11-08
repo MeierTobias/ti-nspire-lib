@@ -5,31 +5,18 @@ This repository contains different TI-Basic libraries with usefull functions. Th
 ## Table of content <!-- omit in toc -->
 
 - [Libraries](#libraries)
-  - [RobFunc](#robfunc)
 - [Usage](#usage)
 - [License](#license)
 
 ## Libraries
-### RobFunc
-This library was developed for the robotics module 2021 at OST 
-* atan2(y,x)
-* xyz_rotmat(a,b,g)
-* zyx_e_rotmat(a,b,g)
-* zyz_e_rotmat(a,b,g)
-* xyz_angles(rmat)
-* zyx_e_angles(rmat)
-* zyz_e_angles(rmat)
-* rotmat_x(phi)
-* rotmat_y(beta)
-* rotmat_z(alpha)
-* transmat_rot_x(phi)
-* transmat_rot_y(beta)
-* transmat_rot_z(alpha)
-* transmat_transl(a,b,c)
-* dh_transmat(a,alpha,d,theta)
+
+- [RobFunc](RobFunc) (click here for function overview and examples)  
+This library was developed for the robotics module 2021 at OST.  
 
 ## Usage
+
 This section explains how to use the libraries on your TI-nspire CX II-T
+
 1. Download this repository or just the spezific tns file ou like to use.
 2. Connect your calculator to your computer and start the TI-Nspire CX CAS Student software.
 3. Navigate to the folder where you saved the repository.  
@@ -48,6 +35,6 @@ This section explains how to use the libraries on your TI-nspire CX II-T
    3. Now you can see the functions in the section 6  
       <img src="img/Usage_Image_7.png" width="250">
 
-
 ## License
+
 This repository is licensed under the terms of the [GNU GENERAL PUBLIC LICENSE V3](LICENSE) license.
