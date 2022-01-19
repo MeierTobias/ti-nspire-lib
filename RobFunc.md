@@ -1,6 +1,6 @@
 # RobFunc <!-- omit in toc -->
 
-This page shows all the available functions and some example implemenations.
+This page shows all the available functions and some example implementations.
 
 - [atan2(y,x)](#atan2yx)
 - [xyz_rotmat(a,b,g)](#xyz_rotmatabg)
@@ -9,10 +9,10 @@ This page shows all the available functions and some example implemenations.
 - [xyz_angles(rmat)](#xyz_anglesrmat)
 - [zyx_e_angles(rmat)](#zyx_e_anglesrmat)
 - [zyz_e_angles(rmat)](#zyz_e_anglesrmat)
-- [rotmat_x(phi)](#rotmat_xphi)
+- [rotmat_x(gamma)](#rotmat_xgamma)
 - [rotmat_y(beta)](#rotmat_ybeta)
 - [rotmat_z(alpha)](#rotmat_zalpha)
-- [transmat_rot_x(phi)](#transmat_rot_xphi)
+- [transmat_rot_x(gamma)](#transmat_rot_xgamma)
 - [transmat_rot_y(beta)](#transmat_rot_ybeta)
 - [transmat_rot_z(alpha)](#transmat_rot_zalpha)
 - [transmat_transl(a,b,c)](#transmat_translabc)
@@ -25,7 +25,7 @@ This page shows all the available functions and some example implemenations.
 
 Returns the unequivocally arctangent of the given y and x values.  
 Where:  
-y=sin(θ) (opposit side / Gegenkathete)  
+y=sin(θ) (opposite side / Gegenkathete)  
 x=cos(θ) (adjacent side / Ankathete)
 
 <img src="img/robFunc/atan2_desc_1.png" width="500">
@@ -43,7 +43,7 @@ Input: alpha, beta, gamma
 $(A-B)R = R_z(a)*R_y(b)*R_x(g)$  
 World fix transformation  
 
-1. Rotation around X-axis with angle gamme
+1. Rotation around X-axis with angle gamma
 2. Rotation around Y-axis with angle beta
 3. Rotation around Z-axis with angle alpha
 
@@ -88,7 +88,7 @@ Input: rotation matrix
 $(A-B)R = R_z(a)*R_y(b)*R_x(g)$  
 World fix transformation  
 
-1. Rotation around X-axis with angle gamme
+1. Rotation around X-axis with angle gamma
 2. Rotation around Y-axis with angle beta
 3. Rotation around Z-axis with angle alpha
 
@@ -124,7 +124,7 @@ Body fix transformation
 
 ## Example: <!-- omit in toc -->
 
-# rotmat_x(phi)
+# rotmat_x(gamma)
 
 ## Description: <!-- omit in toc -->
 
@@ -148,7 +148,7 @@ Returns the rotation matrix of a rotation around the z-axis
 
 ## Example: <!-- omit in toc -->
 
-# transmat_rot_x(phi)
+# transmat_rot_x(gamma)
 
 ## Description: <!-- omit in toc -->
 
