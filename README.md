@@ -13,6 +13,9 @@ This repository contains different TI-Basic libraries with usefull functions. Th
 - [RobFunc](RobFunc.md) (click here for function overview and examples)  
 This library was developed for the robotics module 2021 at OST.  
 
+- [PhysElekFunc](PhysElekFunc.md) (click here for function overview and examples)  
+This library was developed for the PhysElek module 2022 at OST.  
+
 ## Usage
 
 This section explains how to use the libraries on your TI-nspire CX II-T
