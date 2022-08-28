@@ -20,7 +20,7 @@ This library was developed for the PhysElek module 2022 at OST.
 
 This section explains how to use the libraries on your TI-nspire CX II-T
 
-1. Download this repository or just the spezific tns file ou like to use.
+1. Download this repository or just the spezific tns file you like to use.
 2. Connect your calculator to your computer and start the TI-Nspire CX CAS Student software.
 3. Navigate to the folder where you saved the repository.  
    <img src="img/Usage_Image_1.png" width="250">
