@@ -1,6 +1,6 @@
 # ti-nspire-lib <!-- omit in toc -->
 
-This repository contains different TI-Basic libraries with usefull functions. The code was developed for a TI-nspire CX II-T. Altrough the methodes are tested there is no guarantee for correctness, accuracy or completeness of the output.
+This repository contains different TI-Basic libraries with useful functions. The code was developed for a TI-nspire CX II-T. Altough the methods are tested there is no guarantee for correctness, accuracy or completeness of the output.
 
 ## Table of content <!-- omit in toc -->
 
@@ -20,7 +20,7 @@ This library was developed for the PhysElek module 2022 at OST.
 
 This section explains how to use the libraries on your TI-nspire CX II-T
 
-1. Download this repository or just the spezific tns file you like to use.
+1. Download this repository or just the specific tns file you like to use.
 2. Connect your calculator to your computer and start the TI-Nspire CX CAS Student software.
 3. Navigate to the folder where you saved the repository.  
    <img src="img/Usage_Image_1.png" width="250">
@@ -32,7 +32,7 @@ This section explains how to use the libraries on your TI-nspire CX II-T
 6. Select the library you want to install and press the MENU button  
    <img src="img/Usage_Image_5.png" width="250">
 7. Select the Refresh Libraries option.
-8. The library is now in all your documentes available
+8. The library is now in all your documents available
    1. Open a new document
    2. Press the library button <img src="img/Usage_Image_6.png" width="16">
    3. Now you can see the functions in the section 6  
